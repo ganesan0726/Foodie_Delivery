@@ -1,5 +1,4 @@
-# React + Vite
-Food Order App
+#Food Order App
 This is a simple food order app built with React and UseContext. The app allows users to browse a list of food items, add them to their cart, and view the total amount of their order.
 
 Features
